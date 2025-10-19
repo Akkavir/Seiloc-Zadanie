@@ -1,0 +1,7 @@
+/auth0-spa/node_modules
+/auth0-api/node_modules
+auth0-api/.env
+auth0-spa/.env
+start.bat
+auth0-spa/package-lock.json
+auth0-api/package-lock.json
